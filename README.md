@@ -1,9 +1,4 @@
-# Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights
-
-## Contributors 🚀
-
-- [Anuj Attri](23M0808)
-- [Arnav Attri](23M0811)
+# 🧠 Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights
 
 
 ![Strokes Uncovered](https://img.shields.io/badge/Strokes%20Uncovered-Data%20Analysis%2C%20Visualization%2C%20and%20Predictive%20Insights-brightgreen)
@@ -64,8 +59,12 @@ The project's primary objective is to offer valuable key insights into stroke ri
 - `Terminal steps.txt`: Detailed terminal steps for running the project.
 - `CS699 Roadmap`: Additional information about the project's roadmap.
 
-Feel free to explore, contribute, and uncover the secrets of strokes with us! 🕵️‍♀️🔍
+## Contributors 🚀
 
+- [Anuj Attri](23M0808)
+- [Arnav Attri](23M0811)
+
+Feel free to explore, contribute, and uncover the secrets of strokes with us! 🕵️‍♀️🔍
 ---
 
 **License**: This project is licensed under the [MIT License](LICENSE).
