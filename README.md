@@ -61,8 +61,9 @@ The project's primary objective is to offer valuable key insights into stroke ri
 - `README.md`: You're reading it right now! 😉
 - `requirements.txt`: Python package requirements.
 - `stroke.csv`: The dataset used for analysis.
-- `Terminal steps.txt`: Detailed terminal steps for running the project.
+- `Setup steps.txt`: Detailed terminal steps for running the project.
 - `CS699 Roadmap`: Additional information about the project's roadmap.
+-  `CS699 Proposal`: From where it all began. 😊
 
 
 Feel free to explore, contribute, and uncover the secrets of strokes with us! 🕵️‍♀️🔍
