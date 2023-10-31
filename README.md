@@ -2,7 +2,7 @@
 
 ## Contributors 🚀
 
-- [Anuj Attri] (23M0808)
+- [Anuj Attri](23M0808)
 - [Arnav Attri](23M0811)
 
 
