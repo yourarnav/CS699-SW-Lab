@@ -1,4 +1,4 @@
-# 🧠 Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights
+# 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights*
 
 
 ![Strokes Uncovered](https://img.shields.io/badge/Strokes%20Uncovered-Data%20Analysis%2C%20Visualization%2C%20and%20Predictive%20Insights-brightgreen)
@@ -7,7 +7,7 @@
 
 Welcome to **Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights** – your gateway to unraveling the mysteries behind strokes! 🧐
 
-## Introduction 🚀
+## *Introduction* 🚀
 
 The project, titled **Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights**, is dedicated to conducting exploratory data analysis (EDA), which encompasses various techniques such as histograms, scatter plots, bar charts, and heatmaps. Additionally, it involves data visualization and predictive modeling using a publicly available dataset. Strokes represent a significant global health concern, accounting for approximately 11% of worldwide deaths, as reported by the World Health Organization (WHO). The primary objective of this project is to gain a deeper understanding of the risk factors that influence stroke and to facilitate more effective preventive measures and early interventions.
 
