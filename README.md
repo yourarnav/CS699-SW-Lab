@@ -1,34 +1,5 @@
 # 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights under the guidance of Professor Bhaskaran Raman*
 
-## Setup 🛠️
-
-Follow these steps in your terminal to set up the environment:
-
-1. **Navigate to the Project Folder:**
-   - Open your terminal and use the `cd` command to go to the folder where you cloned or downloaded this repository.
-
-2. **Activate the Conda Environment:**
-   - Activate the Conda environment using the following command:
-     ```bash
-     conda activate lightgbm-env
-     ```
-
-3. **Launch Jupyter Notebook:**
-   - Start Jupyter Notebook by running:
-     ```bash
-     jupyter notebook
-     ```
-
-4. **Deactivate Conda Environment:**
-   - Once you're done working with the Jupyter (ipynb) notebook, deactivate the Conda environment using:
-     ```bash
-     conda deactivate
-     ```
-
-This setup will get you ready to work on your project with the required environment. Enjoy your data exploration and analysis!
-
-
-
 ![Strokes Uncovered](https://img.shields.io/badge/Strokes%20Uncovered-Data%20Analysis%2C%20Visualization%2C%20and%20Predictive%20Insights-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
@@ -93,6 +64,33 @@ The project's primary objective is to offer valuable key insights into stroke ri
 - `CS699 Roadmap`: Additional information about the project's roadmap.
 - `CS699 Proposal`: From where it all began. 😊
 
+
+## Setup 🛠️
+
+Follow these steps in your terminal to set up the environment:
+
+1. **Navigate to the Project Folder:**
+   - Open your terminal and use the `cd` command to go to the folder where you cloned or downloaded this repository.
+
+2. **Activate the Conda Environment:**
+   - Activate the Conda environment using the following command:
+     ```bash
+     conda activate lightgbm-env
+     ```
+
+3. **Launch Jupyter Notebook:**
+   - Start Jupyter Notebook by running:
+     ```bash
+     jupyter notebook
+     ```
+
+4. **Deactivate Conda Environment:**
+   - Once you're done working with the Jupyter (ipynb) notebook, deactivate the Conda environment using:
+     ```bash
+     conda deactivate
+     ```
+
+This **setup** will get you ready to work on your project with the required environment. Enjoy your data exploration and analysis!
 
 Feel free to explore, contribute, and uncover the secrets of strokes with us! 🕵️‍♀️🔍
 ---
