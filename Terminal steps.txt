@@ -1,5 +1,0 @@
-#At beginning perform these steps on terminal and make sure you have environment.yml in the same directory.
-
-conda activate lightgbm-env
-jupyter notebook
-conda deactivate
