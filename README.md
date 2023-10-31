@@ -5,7 +5,12 @@
 ![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
-Welcome to **Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights** – your gateway to unraveling the mysteries behind strokes! 🧐
+## Contributors 🧑‍💻
+
+- *Anuj Attri* (23M0808) 👨‍🎓
+- *Arnav Attri* (23M0811) 👨‍🎓
+
+Welcome to **🧠 Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights** – your gateway to unraveling the mysteries behind strokes! 🧐
 
 ## *Introduction* 🚀
 
@@ -59,10 +64,6 @@ The project's primary objective is to offer valuable key insights into stroke ri
 - `Terminal steps.txt`: Detailed terminal steps for running the project.
 - `CS699 Roadmap`: Additional information about the project's roadmap.
 
-## *Contributors*  🚀
-
-- [Anuj Attri](23M0808)
-- [Arnav Attri](23M0811)
 
 Feel free to explore, contribute, and uncover the secrets of strokes with us! 🕵️‍♀️🔍
 ---
