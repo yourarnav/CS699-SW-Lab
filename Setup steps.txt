@@ -1,5 +1,7 @@
 #Terminal steps to begin
 
+conda create --name lightgbm-env #ceating conda envoirnment 
+conda install lightgbm
 conda activate lightgbm-env
 jupyter notebook
 conda deactivate
