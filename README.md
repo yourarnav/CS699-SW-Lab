@@ -1,5 +1,7 @@
 # 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights under the guidance of Professor Bhaskaran Raman*
 
+![New Image](https://i.imgur.com/x8tCuaW.png)
+
 ![Strokes](https://i.imgur.com/2zNegPi.png)
 
 ![Strokes Uncovered](https://img.shields.io/badge/Strokes%20Uncovered-Data%20Analysis%2C%20Visualization%2C%20and%20Predictive%20Insights-brightgreen)
@@ -7,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yourarnav/CS699-SW-Lab)
 
-![New Image](https://i.imgur.com/x8tCuaW.png)
+
 
 ## Contributors 🧑‍💻
 
