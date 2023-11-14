@@ -1,7 +1,7 @@
-# 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights under the guidance of Professor Bhaskaran Raman*
-
 
 ![New Image](https://i.imgur.com/RsiWffh.png)
+
+# 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights under the guidance of Professor Bhaskaran Raman*
 
 ![Strokes](https://i.imgur.com/2zNegPi.png)
 
