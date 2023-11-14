@@ -1,5 +1,5 @@
 
-![New Image](https://i.imgur.com/GOxJ6kV.png)
+![New Image](https://i.imgur.com/RsiWffh.png)
 
 # 🧠 *Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights under the guidance of Professor Bhaskaran Raman*
 
