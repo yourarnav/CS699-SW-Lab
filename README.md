@@ -1,8 +1,6 @@
 
 ![New Image](https://i.imgur.com/RcZUkrq.png)
 
-                    🧠 
-                    
 ![Strokes](https://i.imgur.com/2zNegPi.png)
 
 ![Strokes Uncovered](https://img.shields.io/badge/Strokes%20Uncovered-Data%20Analysis%2C%20Visualization%2C%20and%20Predictive%20Insights-brightgreen)
