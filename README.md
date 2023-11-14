@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yourarnav/CS699-SW-Lab)
 
+![New Image](https://imgur.com/x8tCuaW)
 
 ## Contributors 🧑‍💻
 
