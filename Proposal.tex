@@ -1,0 +1,72 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+
+\geometry{a4paper, margin=1in}
+
+\title{\textit{CS 699: Project Proposal}}
+\author{
+   (23M0808) \& (23M0811)
+}
+\date{\today}
+\begin{document}
+\maketitle
+
+\section*{Project Title}
+% Title
+\textit{\title{\Large Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights}}
+
+\section*{Introduction}
+The project, titled "Strokes Uncovered: Data Analysis, Visualization, and Predictive Insights," is dedicated to conducting exploratory data analysis (EDA), which encompasses various techniques such as histograms, scatter plots, bar charts, and heatmaps. Additionally, it involves data visualization and predictive modeling using a publicly available dataset.Strokes represent a significant global health concern, accounting for approximately 11\% of worldwide deaths, as reported by the World Health Organization (WHO). The primary objective of this project is to gain a deeper understanding of the risk factors that influence stroke, and to  facilitate more effective preventive measures and early interventions. \\
+
+\textit{\Large About Dataset}: \\
+
+The dataset consist of more than 5000 data points and have 10 input features such as (age, hypertension, heart\_disease, martial\_status, work\_type, residence\_type, average\_glucose\_level, bmi, smoking\_status, gender.
+
+\section*{Objectives}
+\begin{enumerate}
+    \item \textbf{Data Analysis:} The project will start with a comprehensive data analysis to uncover insights into attribute distributions and relationships. It will address specific questions and hypotheses using statistical methods such as descriptive statistics, and hypothesis testing:
+    \begin{itemize}
+        \item What is the gender distribution in the dataset, and does it impact stroke likelihood?
+        \item Is there a correlation between patient age and stroke risk?
+        \item Does residence type significantly influence stroke risk?
+        \item Are married individuals more or less likely to experience strokes compared to unmarried individuals in the dataset?
+    \end{itemize}
+    
+    \item \textbf{Data Visualization:} The project will create informative visualizations using Python's Matplotlib and Plotly libraries to effectively convey dataset characteristics, relationships, and trends:
+    \begin{itemize}
+        \item Age, glucose levels, and BMI will be depicted through histograms and density plots.
+        \item Gender distribution and marital status will be visualized using bar charts.
+        \item Scatter plots will explore attribute relationships with stroke risk.
+        \item An interactive Plotly visualization will offer dynamic dataset exploration.
+    \end{itemize}
+    
+    \item \textbf{Stroke Prediction Model:} In this phase of the project, we will build a predictive model employing machine learning algorithms. The model's purpose is to discern individuals at higher risk of stroke by analyzing the attributes within our dataset.
+\end{enumerate}
+
+\section*{Methods and Tools}
+To fulfill project requirements, the following tools and technologies will be employed:
+
+\begin{itemize}
+    \item \textbf{Python:} Python and its various libraries will be used for data analysis, visualization, and model construction.
+    \item \textbf{HTML:} HTML will be used to showcase a working demo of the project.
+    \item \textbf{LaTeX Integration:} LaTeX will play a crucial role in creating a comprehensive and structured report to document our findings and project details.
+    \item \textbf{Pyplot:} Pyplot will be used for creating a wide array of data visualizations, including bar charts, line plots, scatter plots, and histograms, to effectively describe our insights and analysis results.
+     \item \textbf{PostgreSQL (Optional):} PostgreSQL will be employed for data storage and retrieval, particularly if dataset size or database management complexity requires it.
+\end{itemize}
+
+\section*{Project Documentation}
+Thorough documentation, including code comments, explanations, dataset sources, data pre-processing details, and model evaluation results, will be carefully drafted.
+
+\section*{Conclusion and Impact}
+The project's primary objective is to offer valuable key insights into stroke risk factors by finding underlying trends and pattern in the data. By performing data analysis, visualization, and predictive modeling, we can help healthcare professionals and policymakers can use these insights to develop targeted prevention strategies, promote healthier lifestyles, and allocate resources more effectively to reduce the burden of strokes on society.
+
+\section*{Note}
+This proposal outlines the initial project scope. Further refinements, modifications, details, and data information may be incorporated as the project progresses.
+
+
+\end{document}
