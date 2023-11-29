@@ -65,7 +65,7 @@ def result():
                       avg_glucose_level, bmi, smoking_status]).reshape(1, -1)
 
         # Load scaler
-        scaler_path_mac = '/Users/arnav/Downloads/Deployment/models/scaler.pkl'
+        scaler_path_mac = '/Users/arnav/Downloads/Deployment/models/scaler.pkl' #change this link as per your machine.
         scaler = None
         try:
             with open(scaler_path_mac, 'rb') as scaler_file:
@@ -77,7 +77,7 @@ def result():
         x = scaler.transform(x)
 
         # Load the model
-        model_path = os.path.join('/Users/arnav/Downloads/Deployment/models/random_forest_model.pkl')
+        model_path = os.path.join('/Users/arnav/Downloads/Deployment/models/random_forest_model.pkl') #change this link as per your machine.
         dt = None
         try:
             dt = joblib.load(model_path)
